@@ -1,0 +1,12 @@
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\bin\Debug\net5.0\ValidationISBN.deps.json
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\bin\Debug\net5.0\ValidationISBN.dll
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\bin\Debug\net5.0\ref\ValidationISBN.dll
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\bin\Debug\net5.0\ValidationISBN.pdb
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\obj\Debug\net5.0\ValidationISBN.csproj.AssemblyReference.cache
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\obj\Debug\net5.0\ValidationISBN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\obj\Debug\net5.0\ValidationISBN.AssemblyInfoInputs.cache
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\obj\Debug\net5.0\ValidationISBN.AssemblyInfo.cs
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\obj\Debug\net5.0\ValidationISBN.csproj.CoreCompileInputs.cache
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\obj\Debug\net5.0\ValidationISBN.dll
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\obj\Debug\net5.0\ref\ValidationISBN.dll
+C:\Users\Renombrar\Documents\REPOSITORIOS\INTEC\ISBN\ValidationISBN\ValidationISBN\obj\Debug\net5.0\ValidationISBN.pdb
